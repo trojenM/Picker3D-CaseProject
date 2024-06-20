@@ -1,0 +1,36 @@
+# ProBuilder 4.5.2
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 10/29/2023 4:36:59 AM
+
+mtllib ./BallPoolMovePlane.mtl
+o BallPoolMovePlane
+
+g BallPoolMovePlane
+v 5 0 -5
+v 5 0 5
+v -5 0 -5
+v -5 0 5
+v 5 -0.25 -5
+v 5 -0.25 5
+v -5 -0.25 -5
+v -5 -0.25 5
+
+vt 0.02345293 0.9668306
+vt 0.04171927 0.9633397
+vt 0.005003013 0.9633397
+vt 0.04171927 0.9642576
+vt 0.005003013 0.9642576
+
+vn 0 1 0
+vn 1 0 0
+vn 0 0 -1
+vn 0 0 1
+vn -1 0 0
+
+usemtl MPalette
+f 3/1/1 4/1/1 2/1/1 1/1/1
+f 1/4/2 2/5/2 6/3/2 5/2/2
+f 3/4/3 1/5/3 5/3/3 7/2/3
+f 2/4/4 4/5/4 8/3/4 6/2/4
+f 4/4/5 3/5/5 7/3/5 8/2/5
+

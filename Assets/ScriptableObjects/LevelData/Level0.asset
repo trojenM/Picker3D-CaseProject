@@ -1,0 +1,337 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f99eb3c8bcb42068c62f6475a3e20e, type: 3}
+  m_Name: Level0
+  m_EditorClassIdentifier: 
+  m_startPosition: {x: 0, y: 0, z: 0}
+  m_objectsData:
+    m_keyValuePairList:
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 3.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 3.5, y: 0, z: 73}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 2.5, y: 0, z: 73}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 73}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 78.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 3.5, y: 0, z: 74}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 2.5, y: 0, z: 74}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 74}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 79.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 3.5, y: 0, z: 75}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 2.5, y: 0, z: 75}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 75}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 80.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 3.5, y: 0, z: 76}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 2.5, y: 0, z: 76}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 76}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 81.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 3.5, y: 0, z: 77}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 2.5, y: 0, z: 77}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 77}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1.5, y: 0, z: 82.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 30.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 4.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 31.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 5.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 32.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 6.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 33.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 8}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 35}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 3.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 30.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 4.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 31.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 5.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 32.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 6.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 33.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 8}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: 1, y: 0, z: 35}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 3.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 30.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 4.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 31.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 5.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 32.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 6.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 33.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 8}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 4565247033208325456, guid: 8833983a87bc74666806839ec6522c06,
+        type: 3}
+      m_value:
+        m_position: {x: -1, y: 0, z: 35}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 0}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 10}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 8790055373580211327, guid: 07348c88762a14d50abf4a1b9f222766,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 20}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 30}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 40}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 8790055373580211327, guid: 07348c88762a14d50abf4a1b9f222766,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 50}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 60}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 70}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 2890706613198442826, guid: f1e53fbb37b5748cda0baaa7aa91e38f,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 80}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 8790055373580211327, guid: 07348c88762a14d50abf4a1b9f222766,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 90}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 9018877799208175644, guid: 7dd811f633c7f42bc9e296c5689c2473,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 0, z: 100}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+    - m_key: {fileID: 6388750911099530582, guid: 944ca0c9f4ff44587a7552d32024b7cc,
+        type: 3}
+      m_value:
+        m_position: {x: 0, y: 2, z: 27.5}
+        m_rotation: {x: -0, y: -0, z: -0, w: 1}
+  m_collectiblePoolProperties:
+  - m_name: Collectibles Pool
+    m_countCollectiblesTime: 2.5
+    m_maxCollectiblesCount: 10
+  - m_name: Collectibles Pool (1)
+    m_countCollectiblesTime: 2.5
+    m_maxCollectiblesCount: 10
+  - m_name: Collectibles Pool (2)
+    m_countCollectiblesTime: 2.5
+    m_maxCollectiblesCount: 10
